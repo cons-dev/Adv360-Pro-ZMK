@@ -1,5 +1,3 @@
-# Text to trigger commit
-
 # ADV360-PRO-ZMK
 
 ## Modifying the keymap
